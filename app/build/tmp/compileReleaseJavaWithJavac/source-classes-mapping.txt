@@ -1,0 +1,9 @@
+com/example/facerecognition/MainActivity.java
+ com.example.facerecognition.MainActivity
+ com.example.facerecognition.MainActivity$1
+ com.example.facerecognition.MainActivity$2
+ com.example.facerecognition.MainActivity$3
+ com.example.facerecognition.MainActivity$4
+ com.example.facerecognition.MainActivity$5
+com/example/facerecognition/BuildConfig.java
+ com.example.facerecognition.BuildConfig
